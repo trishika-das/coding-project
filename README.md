@@ -85,21 +85,21 @@ Files:
 
 How to Run the Code
 
-    Clone the repository:
+Clone the repository:
 
-    bash
+   
 
-git clone https://github.com/<YourUsername>/Design_Patterns_Exercise_1.git
+    git clone https://github.com/<YourUsername>/Design_Patterns_Exercise_1.git
 
 Navigate to any pattern's directory (e.g., Behavioural/Environmental_Monitoring_System):
 
-    bash
+   
 
     cd Design_Patterns_Exercise_1/Behavioural/Environmental_Monitoring_System
 
 Compile and run the Java files using:
 
-    bash
+   
 
     javac *.java
     java <MainClassName>
@@ -143,7 +143,7 @@ The Astronaut Daily Schedule Organizer is a console-based application designed t
 ## Installation
 To run the application, clone this repository and navigate to the project directory:
 
-    bash
+    
     git clone https://github.com/yourusername/astronaut-schedule-organizer.git
     cd astronaut-schedule-organizer
 
@@ -151,7 +151,6 @@ Usage
 
 Run the application using your preferred Java IDE or via the command line:
 
-    bash
 
     java Main
 
