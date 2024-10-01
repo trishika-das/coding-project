@@ -5,9 +5,8 @@ This repository contains implementations of different software design patterns. 
 Repository Structure
 
 Design_Patterns_Exercise_1
-│
-├── Behavioural
-│   ├── Environmental_Monitoring_System
+1. Behavioural
+    A.Environmental_Monitoring_System
 │   └── HomeAutomation_CommandPattern
 │
 ├── Creational/
