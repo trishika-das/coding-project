@@ -6,6 +6,7 @@ Repository Structure
 
 Design_Patterns_Exercise_1
 1. Behavioural
+   
     A.Environmental_Monitoring_System
 │   └── HomeAutomation_CommandPattern
 │
