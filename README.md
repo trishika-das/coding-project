@@ -4,19 +4,6 @@ Design Patterns Exercise 1
 This repository contains implementations of different software design patterns. It demonstrates the use of various Behavioral, Creational, and Structural design patterns, each with a unique use case to showcase understanding and practical application.
 Repository Structure
 
-Design_Patterns_Exercise_1
-1. Behavioural
-   
-    A.Environmental_Monitoring_System
-   B. HomeAutomation_CommandPattern
-│
-├── Creational/
-│   ├── ShapeFactory_System
-│   └── Logger_SingletonPattern
-│
-├── Structural/
-│   ├── VoltageAdapter_System
-│   └── CoffeeShop_DecoratorPattern
 
 1. Behavioural Design Patterns
 A. Environmental Monitoring System (Observer Pattern)
