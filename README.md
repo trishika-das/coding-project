@@ -8,7 +8,7 @@ Design_Patterns_Exercise_1
 1. Behavioural
    
     A.Environmental_Monitoring_System
-│   └── HomeAutomation_CommandPattern
+   B. HomeAutomation_CommandPattern
 │
 ├── Creational/
 │   ├── ShapeFactory_System
