@@ -123,7 +123,7 @@ About
 
 This project demonstrates various software design patterns, following the requirements of Exercise 1: Design Patterns. It includes:
 
-    Two use cases for Behavioral Design Patterns.
+Two use cases for Behavioral Design Patterns.
     Two use cases for Creational Design Patterns.
     Two use cases for Structural Design Patterns.
 
