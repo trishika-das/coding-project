@@ -33,12 +33,12 @@ A. Environmental Monitoring System (Observer Pattern)
         TemperatureSensor.java
 
 B. Home Automation (Command Pattern)
-
     Pattern: Command
 
-    Use Case: A home automation system where a remote control can send commands (like turning lights on/off) to devices. Commands are encapsulated into objects to allow flexibility in actions.
 
-    Files:
+Use Case: A home automation system where a remote control can send commands (like turning lights on/off) to devices. Commands are encapsulated into objects to allow flexibility in actions.
+
+Files:
         Command.java
         Light.java
         RemoteControl.java
@@ -61,11 +61,11 @@ A. Shape Factory (Factory Pattern)
 
 B. Logger (Singleton Pattern)
 
-    Pattern: Singleton
+ Pattern: Singleton
 
-    Use Case: A logging system that ensures only a single instance of the logger class exists throughout the application, providing global access to it.
+Use Case: A logging system that ensures only a single instance of the logger class exists throughout the application, providing global access to it.
 
-    Files:
+Files:
         Logger.java
         SingletonPatternDemo.java
 
@@ -84,11 +84,11 @@ A. Voltage Adapter System (Adapter Pattern)
 
 B. Coffee Shop System (Decorator Pattern)
 
-    Pattern: Decorator
+Pattern: Decorator
 
-    Use Case: A coffee shop system where you can customize your coffee with different ingredients (like milk, sugar) dynamically by decorating the base coffee object.
+Use Case: A coffee shop system where you can customize your coffee with different ingredients (like milk, sugar) dynamically by decorating the base coffee object.
 
-    Files:
+Files:
         Coffee.java
         BasicCoffee.java
         CoffeeDecorator.java
@@ -106,18 +106,18 @@ git clone https://github.com/<YourUsername>/Design_Patterns_Exercise_1.git
 
 Navigate to any pattern's directory (e.g., Behavioural/Environmental_Monitoring_System):
 
-bash
+    bash
 
-cd Design_Patterns_Exercise_1/Behavioural/Environmental_Monitoring_System
+    cd Design_Patterns_Exercise_1/Behavioural/Environmental_Monitoring_System
 
 Compile and run the Java files using:
 
-bash
+    bash
 
     javac *.java
     java <MainClassName>
 
-    Repeat for other design patterns to see their implementations in action.
+Repeat for other design patterns to see their implementations in action.
 
 About
 
@@ -156,17 +156,17 @@ The Astronaut Daily Schedule Organizer is a console-based application designed t
 ## Installation
 To run the application, clone this repository and navigate to the project directory:
 
-```bash
-git clone https://github.com/yourusername/astronaut-schedule-organizer.git
-cd astronaut-schedule-organizer
+    bash
+    git clone https://github.com/yourusername/astronaut-schedule-organizer.git
+    cd astronaut-schedule-organizer
 
 Usage
 
 Run the application using your preferred Java IDE or via the command line:
 
-bash
+    bash
 
-java Main
+    java Main
 
 Follow the on-screen prompts to add, remove, and view tasks.
 
@@ -174,14 +174,14 @@ Error Handling
 
 The application gracefully handles errors such as:
 
-    Invalid time formats
-    Task conflicts
-    Attempting to remove a non-existent task
+Invalid time formats
+Task conflicts
+Attempting to remove a non-existent task
 
 Code Quality
 
 The code adheres to best practices including:
 
-    Object-Oriented Programming principles
-    SOLID design principles
-    Clean and maintainable code structure
+Object-Oriented Programming principles
+SOLID design principles
+Clean and maintainable code structure
